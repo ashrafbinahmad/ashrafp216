@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning AWS Server management
 - 💞️ I love to work on next.js project
 - 📫 
-- 🔗 (LinkedIn)[https://www.linkedin.com/in/muhammed-asraf-95740a212/]
-- 🔗 (twitter)(https://twitter.com/AshrafPookkodan)
-- 🔗 (ashrafp216@gmai.com)[ashrafp216@gmai.com]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-asraf-95740a212/)
+- 🔗 [twitter](https://twitter.com/AshrafPookkodan)
+- 🔗 [ashrafp216@gmai.com](ashrafp216@gmai.com)
 
 
 <!---
